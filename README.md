@@ -1,5 +1,5 @@
-Should I enable Enhanced Open?!
+# Should I enable Enhanced Open?!
 
 
-Short answer -- yes.
+Short answer -- **yes!**
 
