@@ -6,7 +6,7 @@ authorTwitter = "WorriedOverWifi" #do not include @
 cover = ""
 tags = ["wifi", "wireless", "wpa3", "enhancedopen", "shouldi"]
 keywords = ["wifi", "wireless", "wpa3", "enhancedopen", "shouldi", "shouldienable"]
-description = "Hello, World!  from Hugo"
+description = "Hello, World (again)!  from Hugo"
 showFullContent = false
 readingTime = false
 +++
