@@ -24,7 +24,7 @@ draft: false
 
 <br>
 <div id='container'>
-<p><strong>Should you enable Enhanced Open?</strong></p>
+<p><strong>Should you enable Enhanced Open (<a href="https://en.wikipedia.org/wiki/Opportunistic_Wireless_Encryption#:~:text=Opportunistic%20Wireless%20Encryption%20(OWE)%20is,access%20point%20is%20%22individualized%22.">Opportunistic Wireless Encryption</a> with transition mode enabled)?</strong></p>
 <p><strong><font size=48px>Yes!</font></strong></p>
 </div>
 
@@ -38,7 +38,7 @@ Strong client tolerance for OWE and growing native support as sampled below:
 | Fire HD 8 @ FireOS 5.6.8.0 | Yes | Yes | No |
 | Galaxy A10e @ Android 9 | Yes | Yes | No |
 | Macbook Pro (early 2011) @ 10.11.6 | Yes | Yes | No |
-| Netscout AirCheck G2 @ version 4.0.0.1794 | Yes | Yes* | No |
+| Netscout AirCheck G2 @ version 4.0.0.1794 | Yes | No | No |
 | Netscout AirCheck G2 @ version 5.2.0.1862 | Yes | Yes | No |
 | Pixel 2 XL @ Android 10 @ August 5th, 2020 security update | Yes | Yes | Yes |
 | Pixel 3a XL / Android 11 @ October 1, 2021 security update | Yes | Yes | Yes |
@@ -48,7 +48,7 @@ Strong client tolerance for OWE and growing native support as sampled below:
 | TCL A502DL @ Android 8.1.0 | Yes | Yes | No |
 | Windows 10 Home version 21H1 w/Realtek RTL8821CE adapter @ 2024.0.10.209 dated 12/4/2019 | Yes | Yes | No |
 
-[Apple client OWE support](https://support.apple.com/guide/deployment/how-apple-devices-join-wi-fi-networks-dep3b0448c58/web#:~:text=iOS%2016%2C%20iPadOS%2016.1%2C%20and%20macOS%2013%20add%20support%20for%20Opportunistic%20Wireless%20Encryption%20(OWE)%20for%20all%20iPhone%2011%20models%20or%20later%20and%20all%20Mac%20computers%20with%20Apple%20silicon)
+[Apple Client OWE support](https://support.apple.com/guide/deployment/how-apple-devices-join-wi-fi-networks-dep3b0448c58/web#:~:text=iOS%2016%2C%20iPadOS%2016.1%2C%20and%20macOS%2013%20add%20support%20for%20Opportunistic%20Wireless%20Encryption%20(OWE)%20for%20all%20iPhone%2011%20models%20or%20later%20and%20all%20Mac%20computers%20with%20Apple%20silicon)
 
 <p>--</p>
 
