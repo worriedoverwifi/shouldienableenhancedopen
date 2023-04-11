@@ -47,6 +47,7 @@ Strong client tolerance for OWE and growing native support as sampled below:
 | Samsung Galaxy Tab E @ Android 7.1.1 (Dec 2016) | Yes | Yes | No |
 | TCL A502DL @ Android 8.1.0 (Dec 2017) | Yes | Yes | No |
 | Windows 10 Home version 21H1 w/Realtek RTL8821CE adapter @ 2024.0.10.209 dated 12/4/2019 | Yes | Yes | No |
+| Chromecast with Google TV (4K) @ firmware STTE.220920.016.H1 | Yes | No | No |
 
 [Apple Client OWE support](https://support.apple.com/guide/deployment/how-apple-devices-join-wi-fi-networks-dep3b0448c58/web#:~:text=iOS%2016%2C%20iPadOS%2016.1%2C%20and%20macOS%2013%20add%20support%20for%20Opportunistic%20Wireless%20Encryption%20(OWE)%20for%20all%20iPhone%2011%20models%20or%20later%20and%20all%20Mac%20computers%20with%20Apple%20silicon)
 
