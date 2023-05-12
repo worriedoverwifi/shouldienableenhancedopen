@@ -51,6 +51,8 @@ Strong client tolerance for OWE and growing native support as sampled below:
 
 [Apple Client OWE support](https://support.apple.com/guide/deployment/how-apple-devices-join-wi-fi-networks-dep3b0448c58/web#:~:text=iOS%2016%2C%20iPadOS%2016.1%2C%20and%20macOS%2013%20add%20support%20for%20Opportunistic%20Wireless%20Encryption%20(OWE)%20for%20all%20iPhone%2011%20models%20or%20later%20and%20all%20Mac%20computers%20with%20Apple%20silicon)
 
+[Intel Client OWE support](https://www.intel.com/content/www/us/en/support/articles/000057519/wireless.html)
+
 <p>--</p>
 
 [Aruba Networks](https://www.arubanetworks.com/techdocs/ArubaOS_87_Web_Help/Content/arubaos-solutions/802-1x/enha-open-secu.htm)
