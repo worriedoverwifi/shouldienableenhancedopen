@@ -49,11 +49,14 @@ Strong client tolerance for OWE and growing native support as sampled below:
 | Windows 10 Home version 21H1 w/Realtek RTL8821CE adapter @ 2024.0.10.209 dated 12/4/2019 | Yes | Yes | No |
 | Chromecast with Google TV (4K) @ firmware STTE.220920.016.H1 (~Jan 2023) 😞 | Yes | No | No |
 
+
+
+
 [Apple Client OWE support](https://support.apple.com/guide/deployment/how-apple-devices-join-wi-fi-networks-dep3b0448c58/web#:~:text=iOS%2016%2C%20iPadOS%2016.1%2C%20and%20macOS%2013%20add%20support%20for%20Opportunistic%20Wireless%20Encryption%20(OWE)%20for%20all%20iPhone%2011%20models%20or%20later%20and%20all%20Mac%20computers%20with%20Apple%20silicon)
 
 [Intel Client OWE support](https://www.intel.com/content/www/us/en/support/articles/000057519/wireless.html)
 
-<p>--</p>
+<p>Vendor documents relating to OWE:</p>
 
 [Aruba Networks](https://www.arubanetworks.com/techdocs/ArubaOS_87_Web_Help/Content/arubaos-solutions/802-1x/enha-open-secu.htm)
 
@@ -66,7 +69,9 @@ Strong client tolerance for OWE and growing native support as sampled below:
 
 
 <font size=1px>Sorry for the terrible layout, web dev is definitely not my strong suit!<br>
-WLPC2023 envy!</font>
+</font>
+
+<!-- WLPC2023 envy... still! -->
 
 <!-- But but my super important device doesn't support it!  I doubt you want to use an unauthenticated network anyway.... right?! -->
 <!-- Standard wifi answer of It Depends! is still valid, but if your device can't do something an iPad from 2011 can do or Android 4.2.1, I'm not sure what to tell you.  -->
