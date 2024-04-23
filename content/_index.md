@@ -24,7 +24,7 @@ draft: false
 
 <br>
 <div id='container'>
-<p><strong>Should you enable Enhanced Open (<a href="https://en.wikipedia.org/wiki/Opportunistic_Wireless_Encryption#:~:text=Opportunistic%20Wireless%20Encryption%20(OWE)%20is,access%20point%20is%20%22individualized%22.">Opportunistic Wireless Encryption</a> with transition mode enabled)?</strong></p>
+<p><strong>Should you enable Enhanced Open (<a href="https://en.wikipedia.org/wiki/Opportunistic_Wireless_Encryption#:~:text=Opportunistic%20Wireless%20Encryption%20(OWE)%20is,access%20point%20is%20%22individualized%22.">Opportunistic Wireless Encryption</a> with transition mode)?</strong></p>
 <p><strong><font size=48px>Yes!</font></strong></p>
 </div>
 
