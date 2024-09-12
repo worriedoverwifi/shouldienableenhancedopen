@@ -48,7 +48,7 @@ Strong client tolerance for OWE and growing native support as sampled below:
 | TCL A502DL @ Android 8.1.0 (Dec 2017) | Yes | Yes | No |
 | Windows 10 Home version 21H1 w/Realtek RTL8821CE adapter @ 2024.0.10.209 dated 12/4/2019 | Yes | Yes | No |
 | Chromecast with Google TV (4K) @ firmware STTE.220920.016.H1 (~Jan 2023) 😞 | Yes | No | No |
-| Various 'smart' TVs - Vizio, Hisense, Toshiba (TF-43A810U21) 😞  | Yes | No | No |
+| Various 'smart' TVs - Vizio (D32h-J09), Hisense, Toshiba (TF-43A810U21) 😞  | Yes | No | No |
 
 
 
