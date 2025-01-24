@@ -52,7 +52,7 @@ Strong client tolerance for OWE and growing native support as sampled below:
 
 
 
-[Apple Client OWE support](https://support.apple.com/guide/deployment/how-apple-devices-join-wi-fi-networks-dep3b0448c58/web#:~:text=iOS%2016%2C%20iPadOS%2016.1%2C%20and%20macOS%2013%20add%20support%20for%20Opportunistic%20Wireless%20Encryption%20(OWE)%20for%20all%20iPhone%2011%20models%20or%20later%20and%20all%20Mac%20computers%20with%20Apple%20silicon)
+[Apple Client OWE support](https://support.apple.com/guide/deployment/how-apple-devices-join-wi-fi-networks-dep3b0448c58/web#:~:text=Support%20was%20added%20to%20secure%20open%20Wi%2DFi%20networks%20using%20the%20standard%20Opportunistic%20Wireless%20Encryption%20on%20the%20following%20devices%20with%20iOS%2016%2C%20iPadOS%2016.1%2C%20macOS%2013%2C%20tvOS%2016%2C%20or%20later%3A)
 
 [Intel Client OWE support](https://www.intel.com/content/www/us/en/support/articles/000057519/wireless.html)
 
