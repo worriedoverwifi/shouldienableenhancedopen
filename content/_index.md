@@ -49,8 +49,9 @@ Strong client tolerance for OWE and growing native support as sampled below:
 | Windows 10 Home version 21H1 w/Realtek RTL8821CE adapter @ 2024.0.10.209 dated 12/4/2019 | Yes | Yes | No |
 | Chromecast with Google TV (4K) @ firmware STTE.220920.016.H1 (~Jan 2023) 😞 | Yes | No | No |
 | Various 'smart' TVs - Vizio (D32h-J09, V4k50c-0809), Hisense, Samsung Crystal UHD, Toshiba (TF-43A810U21) 😞  | Yes | No | No |
-
-
+<br>
+<p>Note: Manually creating the network on most TVs and setting them to 'Open' is a valid workaround (as is connecting them via ethernet, if the model supports it)
+</p>
 
 [Apple Client OWE support](https://support.apple.com/guide/deployment/how-apple-devices-join-wi-fi-networks-dep3b0448c58/web#:~:text=Support%20was%20added%20to%20secure%20open%20Wi%2DFi%20networks%20using%20the%20standard%20Opportunistic%20Wireless%20Encryption%20on%20the%20following%20devices%20with%20iOS%2016%2C%20iPadOS%2016.1%2C%20macOS%2013%2C%20tvOS%2016%2C%20or%20later%3A)
 
