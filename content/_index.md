@@ -76,4 +76,4 @@ Strong client tolerance for OWE and growing native support as sampled below:
 <!-- WLPC2023 envy... still! -->
 
 <!-- But but my super important device doesn't support it!  I doubt you want to use an unauthenticated network anyway.... right?! -->
-<!-- Standard wifi answer of It Depends! is still valid, but if your device can't do something an iPad from 2011 can do or Android 4.2.1, I'm not sure what to tell you.  -->
+<!-- Standard wifi answer of It Depends! is still valid, but if your device can't do something an iPad from 2011 can do or Android 4.2.1, I'm not sure what to tell you. -->
